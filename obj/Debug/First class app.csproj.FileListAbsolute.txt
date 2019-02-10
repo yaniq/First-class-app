@@ -1,0 +1,7 @@
+C:\Users\VTDI\Desktop\C# source repo\First class app\First class app\obj\Debug\First class app.csprojAssemblyReference.cache
+C:\Users\VTDI\Desktop\C# source repo\First class app\First class app\obj\Debug\First class app.csproj.CoreCompileInputs.cache
+C:\Users\VTDI\Desktop\C# source repo\First class app\First class app\bin\Debug\First class app.exe.config
+C:\Users\VTDI\Desktop\C# source repo\First class app\First class app\bin\Debug\First class app.exe
+C:\Users\VTDI\Desktop\C# source repo\First class app\First class app\bin\Debug\First class app.pdb
+C:\Users\VTDI\Desktop\C# source repo\First class app\First class app\obj\Debug\First class app.exe
+C:\Users\VTDI\Desktop\C# source repo\First class app\First class app\obj\Debug\First class app.pdb
